@@ -1,0 +1,30 @@
+{
+  "name": "crackats",
+  "version": "1.0.0",
+  "description": "This is a basic way system to determine how well your resume's summary fits the job requirements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/careofdibakar/crackATS.git"
+  },
+  "author": "Dibakar Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/careofdibakar/crackATS/issues"
+  },
+  "homepage": "https://github.com/careofdibakar/crackATS#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "url": "^0.11.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
